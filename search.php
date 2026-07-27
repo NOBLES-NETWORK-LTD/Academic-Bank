@@ -1,0 +1,1 @@
+<?php include 'inc/header.php'; include 'db.php'; include 'inc/functions.php'; search_resources(); include 'inc/footer.php'; ?>
